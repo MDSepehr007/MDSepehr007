@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">Badges</h3>
+<!--<h3 align="left">Badges</h3>
 
 ###
 
@@ -90,4 +90,4 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=MDSepehr007&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
+###-->
